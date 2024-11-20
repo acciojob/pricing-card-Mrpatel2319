@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	box-styling:border-box;
+}
+body{
+	font-family:sans-serif;
+}
+.card{
+	width:400px;
+	margin: 20px auto 0 auto;
+	background-color: #f5f5f5;
+	text-align:center;
+	padding:20px;
+}
+.desc{
+ 
+}
+button{
+	color:white;
+	background-color:orange;
+	padding:20px;
+	border-radius:10px;
+}
